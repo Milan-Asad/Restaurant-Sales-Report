@@ -16,3 +16,9 @@ From this visual, we can deduce the joint best-selling months were January and A
 This visual is to represent the worst-selling and best-selling months. This visual is useful to quickly analyse which months were the best-performing.
 
 ### ANALYSIS: 
+- Total yearly sales are 361,785
+- This means average monthly sales equate to 30,148.75
+- Sales climb from June to August. This could be due to school summer holidays as well as potential tourists (as it's summertime)
+- February is the lowest selling month. However, it's important to know that February has fewer days than any other month.
+- August is the highest selling month. As mentioned earlier, this could be due to school holidays and tourism.
+- Top 3 least selling items are all forms of fries. Top 3 best selling items are 2 Pizza's and 1 garden salad. This could 
