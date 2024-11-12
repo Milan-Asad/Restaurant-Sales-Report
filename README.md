@@ -28,7 +28,7 @@ This visual is to represent the worst-selling and best-selling months. This visu
 - Sales climbed from June to August. This could be due to school summer holidays as well as potential tourists (as it's summertime)
 - Months in which sales were on a downward trend (February, April, June and September) always rebounded strongly with sales reaching over 30,000. This could be due to many factors. Some logical reasonings could be due to sales (to help recover from the downward trend), seasonal change or a lack of school holidays.
 
-#### OTHER SPECULATIVE TRENDS TO CONSIDER
+#### OTHER TRENDS TO CONSIDER
 - February has fewer days. While this doesn't entirely account for the sales drop, it's an important factor to keep in mind.
 - Religious events like Ramadan could affect sales. Whilst Ramadan doesn't specifically prohibit people from eating for 24 hours, it may deter people from ordering due to scheduling reasons.
 - Seasonal changes and school holidays are likely to be influencing factors in sales trends.
