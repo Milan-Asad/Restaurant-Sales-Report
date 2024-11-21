@@ -37,7 +37,15 @@ This visual is to represent the worst-selling and best-selling months. This visu
 Here is a brief explaination on the workflow which I used for this project.
 
 ### SQL
-I used SQL to
+I used SQL to perform data cleaning and data aggregation. There were some columns which were not needed, so I removed them. Following this, I spent time getting a better understanding of the dataset writing queries. One example of me getting a better understanding was to write a query to see the total sales per month. Here's the query I wrote:
+
+![image](https://github.com/user-attachments/assets/18cfe2db-e49b-4eb2-ad3b-29e7290383e5)
+
+And here is the result:
+
+![image](https://github.com/user-attachments/assets/4330c99f-2f68-4976-abdb-7c4710acef7c)
+
+This is only one example of aggregating the data to get a better understanding, since I want to keep this report brief. Now we know the total sales per month, but we can't visualise it. For this, we need Python (and Power BI, but Power BI is more of a final stage process)
 
 ### PYTHON
 After cleaning and getting a better understanding of the data, I moved onto Python. Here is where I conduct analysis of the data using the Matplotlib and Pandas library. I utilised these libraries to create visualisations of the data. Whilst we can create visualisation in Power BI, it's important to see what our charts would look like here and to make sure everything is correct. Here's a screenshot of the code I used to create a line chart which displays the total sales per month:
