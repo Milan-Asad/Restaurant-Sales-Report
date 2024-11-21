@@ -15,7 +15,7 @@ From this visual, we can deduce the top performing months were January and Augus
 ### Sales by Month (Lowest to Highest)
 This visual is to represent the worst-selling and best-selling months. This visual is useful to quickly analyse which months were the best-performing.
 
-### ANALYSIS: 
+## ANALYSIS: 
 
 #### SALES ANALYSIS
 - Total yearly sales are 361,785
