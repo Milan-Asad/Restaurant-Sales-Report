@@ -48,7 +48,7 @@ And here is the result:
 This is only one example of aggregating the data to get a better understanding, since I want to keep this report brief. Now we know the total sales per month, but we can't visualise it. For this, we need Python (and Power BI, but Power BI is more of a final stage process)
 
 ### PYTHON
-After cleaning and getting a better understanding of the data, I moved onto Python. Here is where I conduct analysis of the data using the Matplotlib and Pandas library. I utilised these libraries to create visualisations of the data. Whilst we can create visualisation in Power BI, it's important to see what our charts would look like here and to make sure everything is correct. Here's a screenshot of the code I used to create a line chart which displays the total sales per month:
+After performing initial data cleaning and aggregation with SQL, I then moved on to Python for further analysis and visualization. Here is where I conduct analysis of the data using the Matplotlib and Pandas library. I utilised these libraries to create visualisations of the data. While Power BI is often used to create polished, final visualizations, I used Python to test and ensure the accuracy of the charts first. Here's a screenshot of the code I used to create a line chart which displays the total sales per month:
 
 ![image](https://github.com/user-attachments/assets/d453d61e-13ee-4220-b9b7-a214ae32350a)
 
