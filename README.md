@@ -33,13 +33,13 @@ This visual is to represent the worst-selling and best-selling months. This visu
 - Religious events like Ramadan could affect sales. Whilst Ramadan doesn't specifically prohibit people from eating for 24 hours, it may deter people from ordering due to scheduling reasons.
 - Seasonal changes and school holidays are likely to be influencing factors in sales trends.
 
-### BRIEF GUIDE ON WORKFLOW: 
+## BRIEF GUIDE ON WORKFLOW: 
 Here is a brief explaination on the workflow which I used for this project.
 
-#### SQL
+### SQL
 I used SQL to
 
-#### PYTHON
+### PYTHON
 After cleaning and getting a better understanding of the data, I moved onto Python. Here is where I conduct analysis of the data using the Matplotlib and Pandas library. I utilised these libraries to create visualisations of the data. Whilst we can create visualisation in Power BI, it's important to see what our charts would look like here and to make sure everything is correct. Here's a screenshot of the code I used to create a line chart which displays the total sales per month:
 
 ![image](https://github.com/user-attachments/assets/d453d61e-13ee-4220-b9b7-a214ae32350a)
